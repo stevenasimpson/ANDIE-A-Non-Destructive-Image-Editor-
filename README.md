@@ -8,7 +8,7 @@ ANDIE is not capable of small scale changes, instead performing operations to al
 
 ## Development
 
-ANDIE
+The starter code for the ANDIE project was part of a second-year University of Otago paper, which focussed on adding features to an existing program. These features in this code base were implemented by a small team of five students, which can be found attributed later in this README.
 
 ## Basic User Guide
 
@@ -78,9 +78,9 @@ The following sections were worked on by all developers:
 ## Known Bugs
 
 Small translation errors 
-    {Translation key is being updated}
+    {Translation key is being updated}  
 Able to open non-image files
-    {File constraints are being added}
+    {File constraints are being added}  
 
 ## Testing
 
